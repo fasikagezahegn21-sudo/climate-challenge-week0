@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # climate-challenge-week0
 
 climate-challenge-week0
@@ -37,3 +38,6 @@ Save and close.
 git add README.md
 git commit -m "docs: update README with environment setup"
 git push
+=======
+# climate-challenge-week0
+>>>>>>> 3ace80d2b67d9a1880acaa417182b24eaabe0fcc
