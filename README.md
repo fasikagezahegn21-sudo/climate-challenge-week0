@@ -27,3 +27,13 @@ Save and close.
 ```bash id="x1m9sd"
 git add .
 git commit -m "docs: add project structure and README"
+
+Save and close.
+
+---
+
+## Step 3: Commit it
+```bash
+git add README.md
+git commit -m "docs: update README with environment setup"
+git push
